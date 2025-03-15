@@ -45,11 +45,6 @@ id	name	department	salary
 1	Alice	HR	50000
 2	Bob	    IT	60000
 
-🚀 Enhancements & Future Work
-✅ Automate data validation before loading.
-✅ Implement logging and error handling.
-✅ Optimize database queries for performance.
-✅ Deploy on a cloud platform (e.g., AWS, GCP).
 
 
 🏆 Author
